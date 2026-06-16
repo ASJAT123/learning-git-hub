@@ -1,2 +1,1 @@
-console.log('hiii');
-console.log('ajju');
+ addconsole.log('hiii');console.log('object');
