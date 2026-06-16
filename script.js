@@ -1,1 +1,1 @@
-console.log('hiii');
+git addconsole.log('hiii');console.log('object');
